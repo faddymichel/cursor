@@ -1,0 +1,15 @@
+{
+  "name": "@teatro13/cursor",
+  "version": "1.0.0",
+  "description": "Cursor Data-Structure",
+  "author": "Faddy Michel Samaan <faddy@teatro13.com>",
+  "homepage": "https://github.com/teatro13/cursor",
+  "repository": "github:teatro13/cursor",
+  "bugs": "https://github.com/teatro13/cursor/issues",
+  "license": "MIT",
+ "type": "module",
+  "main": "index.js",
+  "files": [
+    "*.js"
+  ]
+}
